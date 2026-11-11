@@ -18,12 +18,12 @@
 
 ## ABOUT
 
-I'm an aspiring **Data Analyst** with a B.Tech background in Animal Production and Health and a growing focus on analytics and business intelligence.
+I'm a **Data Analyst** focused on business intelligence, data visualisation, and turning raw data into practical insights. I bring a B.Tech background in Animal Production and Health and hands-on project experience with Excel, Power BI, and DAX.
 
 I enjoy exploring data, identifying trends, measuring performance, and presenting findings in a way that supports practical business decisions. My current toolkit includes **Microsoft Excel, Power BI, DAX, and SQL**.
 
 - Based in Ibadan, Oyo State, Nigeria
-- Interested in junior Data Analyst and Business Intelligence opportunities
+- Open to Data Analyst opportunities, analytics projects, and professional collaborations
 - Building hands-on projects in sales, retail, and business performance analysis
 
 ## TOOLKIT
@@ -78,7 +78,7 @@ I'm continuing to develop Power BI and SQL projects. New case studies will be ad
 
 ## LET'S CONNECT
 
-I'm open to entry-level opportunities, internships, freelance projects, mentorship, and collaborations.
+I'm open to Data Analyst opportunities, freelance projects, mentorship, and professional collaborations.
 
 - **LinkedIn:** [Ogunkunle Goodness Feranmi](https://www.linkedin.com/in/ogunkunle-goodness-b47186412)
 - **Portfolio:** [MY-PORTFOLIO](https://github.com/Godspeedxreal/MY-PORTFOLIO)
